@@ -52,4 +52,6 @@ Printed performance metrics like total duration, AGV count, and energy consumpti
 Demonstrated a working prototype showing how AGVs interact with operations and processes in a warehouse setting.
 
 🎥 Submission Info
+1.Drive Link (video explanation of the solution): https://drive.google.com/drive/folders/1PZPyamME_Tj3c0sEAThj6Ng1gznnBg6l?usp=sharing
+2.Problem Statement : 
 
