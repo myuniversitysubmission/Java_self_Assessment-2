@@ -53,5 +53,5 @@ Demonstrated a working prototype showing how AGVs interact with operations and p
 
 🎥 Submission Info
 1.Drive Link (video explanation of the solution): https://drive.google.com/drive/folders/1PZPyamME_Tj3c0sEAThj6Ng1gznnBg6l?usp=sharing
-2.Problem Statement : 
+2.Problem Statement : https://docs.google.com/document/d/1ig9thvv4gp-M_wh8uWJ2BrRAxPEukjyl/edit?usp=sharing&ouid=100454102001847751804&rtpof=true&sd=true
 
